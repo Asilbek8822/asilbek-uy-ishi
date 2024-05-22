@@ -1,0 +1,57 @@
+*{
+   background-color: blueviolet;
+}
+.container{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    width: 400px;
+    height: 100px;
+    background-color: rgb(184, 121, 242);
+}
+.box1{
+    width: 180px;
+    height: 200px;
+    background-color: rgb(255, 179, 0);
+    margin: 5px;
+}
+.box2{
+    width: 180px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+ 
+}
+.box3{
+    margin-top: -200px;
+    width: 180px;
+    height: 308px;
+    background-color: blue;
+    margin: 5px;
+    margin-left: 190px;
+    margin-top: -310px;
+}
+.box4{
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    margin-left: 1000px;
+    margin-top: -100px;
+    margin: 10px;
+}
+.cardlar{
+    display: flex;
+}
+.box5{
+    width: 620px;
+    height: 100px;
+    background-color: rgb(184, 121, 242);
+    margin-left: 12px;
+}
+.containerlar{
+    display: flex;
+}
+.container1{
+    margin-top: -10px;
+}
